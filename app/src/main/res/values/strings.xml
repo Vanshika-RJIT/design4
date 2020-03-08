@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">design4</string>
+    <string name="todo">TODO</string>
+    <string name="kunal">Kunal</string>
+    <string name="guest_list">Guest List</string>
+    <string name="click">Click</string>
+    <string name="placeholder">placeholder</string>
+</resources>
